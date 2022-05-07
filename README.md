@@ -1,9 +1,6 @@
 # Awesome-PTNK
 Trong quá trình dạy các lớp toán nâng cao, toán chuyên PTNK, toán không chuyên PTNK cho các bạn học sinh lớp 7, 8 và lớp 9, tối 2-4-6, 3-5-7, thứ 7-CN hàng tuần, Triết có gặp những em học sinh thiếu thông tin về trường PTNK khi so sánh với các trường năng khiếu/trường chuyên khác nên Triết lập trang GitHub này để giới thiệu các câu lạc bộ, sự kiện và hoạt động thường niên ở trường Phổ Thông Năng Khiếu để các em thuận tiện tìm hiểu và tăng động lực và cảm hứng học bài, ôn luyện thi tuyển sinh vào trường PTNK.
 
-Liên hệ học thử: 0962797946 (FaceTime, Zalo,...), [Facebook](https://www.facebook.com/trietptm) gần ngã ba Hồ Văn Huê - Nguyễn Kiệm, Phú Nhuận.
-https://goo.gl/maps/CghSicAvrM6nnYJ8A
-
 Địa chỉ gửi góp ý cho trang GitHub: https://www.facebook.com/trietptm
 
 An awesome list of everything that belongs to VNU-HCM High School for the Gifted (PTNK) official &amp; unofficial communities
@@ -21,9 +18,11 @@ An awesome list of everything that belongs to VNU-HCM High School for the Gifted
 * PTNK Sports: https://www.facebook.com/PTNKsports
 * PTNK STEAM Club: https://www.facebook.com/ptnksteam
 * Art Club Phổ Thông Năng Khiếu: https://www.facebook.com/artclubptnk
+* F-Zone: https://www.facebook.com/fzonesalute
 * Năng Khiếu Express - NKX: https://www.facebook.com/nangkhieuexpress
 * PTNK Photography Club: https://www.facebook.com/ptnkphotographyclub
 * Đội Văn Nghệ trường Phổ thông Năng Khiếu: https://www.facebook.com/doivannghetruongptnk
+* The ILLY: https://www.facebook.com/theillyminarics
 * PTNK Magic Club: https://www.facebook.com/PTNKMagicClub
 * PTNK Harmonica Club: https://www.facebook.com/PtnkHarmonica
 * Chess Năng Khiếu: https://www.facebook.com/chessnk
@@ -38,6 +37,7 @@ An awesome list of everything that belongs to VNU-HCM High School for the Gifted
 * Bồ Câu Năng Khiếu: https://www.facebook.com/bocau.nangkhieu/
 * JUST MEDIA: https://www.facebook.com/JUstmedia.ptnk/
 * MC CLUB PTNK: https://www.facebook.com/mcclubptnk
+* Paradice - Boardgame Club: https://www.facebook.com/paradice.boardgameclub
 * The Colosseum (câu lạc bộ/đấu Trường tranh biện): https://www.facebook.com/thecolosseum.ptnk
 * Shark Club - Câu lạc bộ Khởi nghiệp Trường Phổ thông Năng Khiếu: https://www.facebook.com/sharkclubptnk
 * PTNK Summer League: https://www.facebook.com/ptnksummerleague
@@ -48,11 +48,13 @@ An awesome list of everything that belongs to VNU-HCM High School for the Gifted
 
 ## PROJECTS:
 * Hội sách Ngấu Sách Nghiền Chữ: https://www.facebook.com/HoisachPTNK.NgauSachNghienChu/
+* The Gifted Battlefield: https://www.facebook.com/giftedbat.nk.1121/
 * 
 
 ## EVENTS:
 * CLUB DAY Phổ Thông Năng Khiếu: https://www.facebook.com/clubdayptnk
   * https://www.facebook.com/clubdayptnk/posts/855929915097364
+  * https://www.facebook.com/clubdayptnk/posts/380492485974445
 * Lễ Hội Truyền Thống Khối Hóa PTNK: https://www.facebook.com/LeHoiTruyenThongKhoiHoa
 * Lễ Hội Truyền Thống Khối Sinh PTNK: https://www.facebook.com/lhttsinhptnk
 * 
