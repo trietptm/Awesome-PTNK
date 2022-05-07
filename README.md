@@ -20,11 +20,13 @@ An awesome list of everything that belongs to VNU-HCM High School for the Gifted
 * PTNK Magic Club: https://www.facebook.com/PTNKMagicClub
 * PTNK Harmonica Club: https://www.facebook.com/PtnkHarmonica
 * Chess Năng Khiếu: https://www.facebook.com/chessnk
+  * PCC - PTNK Chess Club: https://www.facebook.com/pcc.ptnk/
 * PTNK Soccer Club: https://www.facebook.com/ptnksoccerclub
 * Mặt Trời Năng Khiếu: https://www.facebook.com/mattroi.nk
 * PTNK Deutschklub: https://www.facebook.com/ptnkdeutschklub
 * PTNK_Nihongo: https://www.facebook.com/PTNK_Nihongo-100217732394699/
   * Trang của các lớp tiếng Nhật tại trường PTNK, ĐHQG Tp HCM. Nơi trao đổi các thông tin, tư liệu về các lớp học tiếng Nhật.
+* PTNK Korean Culture Club: https://www.facebook.com/kcc.ptnk/
 * Tổ Phát Thanh - CLB Truyền thông & Sự kiện trường Phổ thông Năng Khiếu: https://www.facebook.com/tophatthanhptnk
 * Bồ Câu Năng Khiếu: https://www.facebook.com/bocau.nangkhieu/
 * JUST MEDIA: https://www.facebook.com/JUstmedia.ptnk/
