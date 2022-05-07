@@ -1,4 +1,7 @@
 # Awesome-PTNK
+Trong quá trình dạy các lớp toán nâng cao, toán chuyên PTNK, toán không chuyên PTNK cho các bạn học sinh lớp 7, 8 và lớp 9, tối 2-4-6, 3-5-7, thứ 7-CN hàng tuần, Triết có gặp những em học sinh thiếu thông tin về trường PTNK khi so sánh với các trường năng khiếu/trường chuyên khác nên Triết lập trang GitHub này để giới thiệu các câu lạc bộ, sự kiện và hoạt động thường niên ở trường Phổ Thông Năng Khiếu để các em thuận tiện tìm hiểu và tăng động lực và cảm hứng học bài, ôn luyện thi tuyển sinh vào trường PTNK.
+* Liên hệ học thử: 0962797946 (FaceTime, Zalo,...), [Facebook](https://www.facebook.com/trietptm) gần ngã ba Hồ Văn Huê - Nguyễn Kiệm, Phú Nhuận.
+https://goo.gl/maps/CghSicAvrM6nnYJ8A
 An awesome list of everything that belongs to VNU-HCM High School for the Gifted (PTNK) official &amp; unofficial communities
 
 ## PTNK LEARNING SPACE:
