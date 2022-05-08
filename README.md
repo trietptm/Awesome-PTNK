@@ -21,40 +21,58 @@ An awesome list of everything that belongs to VNU-HCM High School for the Gifted
 
 ## PTNK ACADEMIC/SOFT-SKILL COMPETITIONS:
 * Thách thức Entropy: https://www.facebook.com/thachthucentropy
+  * Đường lên đỉnh Olympia nhưng bản quyền Năng Khiếu
 * Miss Năng Khiếu: https://www.facebook.com/missnangkhieu
 * 
 
 ## CLUBS:
 * PTNK Sports: https://www.facebook.com/PTNKsports
 * PTNK STEAM Club: https://www.facebook.com/ptnksteam
+  * Lắp máy bay, đóng tàu, chạy event, lập trình,... Có gì khó, có STEAM đây!
 * Art Club Phổ Thông Năng Khiếu: https://www.facebook.com/artclubptnk
+  * Điểm dừng chân lý tưởng cho những con người yêu nghệ thuật.
 * ESC - English Speaking Club: https://www.facebook.com/ESC.HSG/
+  * Đến đây để giao tiếp tiếng anh thật healthy và balance!
 * F-Zone: https://www.facebook.com/fzonesalute
+  * Vẫn là F-Zone nhưng là F-Zone với những bài nhảy siêu đỉnh, siêu chất, siêu ngầu.
 * Năng Khiếu Express - NKX: https://www.facebook.com/nangkhieuexpress
+  * Tuổi Trẻ, Thanh Niên, VNExpress, Kenh14,... nhưng của Năng Khiếu!
 * PTNK Photography Club: https://www.facebook.com/ptnkphotographyclub
+  * Nơi biến giấc mộng "vịt hóa thiên nga" thành hiện thực.
 * Đội Văn Nghệ trường Phổ thông Năng Khiếu: https://www.facebook.com/doivannghetruongptnk
+  * Tại đây, văn nghệ không đơn thuần là hát và đàn.
 * The ILLY: https://www.facebook.com/theillyminarics
 * MIB - Come Fly With Us: https://www.facebook.com/mibcomeflywithus
+  * Hiệp hội những con người thường xuyên đi bay nhảy ở một tầm cao mới.
 * GLEE PTNK: https://www.facebook.com/gleeptnk
+  * "Xin chào, bọn mình là Glee. Bọn mình chơi nhạc, kể chuyện, và ừ, vậy thôi đó."
 * PTNK Magic Club: https://www.facebook.com/PTNKMagicClub
+  * Ảo thuật nóng hổi, vừa “thổi” vừa xem!
 * PTNK Harmonica Club: https://www.facebook.com/PtnkHarmonica
+  * Đội thổi kèn nhưng không phải đội nghi lễ.
 * Chess Năng Khiếu: https://www.facebook.com/chessnk
   * PCC - PTNK Chess Club: https://www.facebook.com/pcc.ptnk/
 * PTNK Soccer Club: https://www.facebook.com/ptnksoccerclub
 * Mặt Trời Năng Khiếu: https://www.facebook.com/mattroi.nk
+  * Xứ hoa anh đào giữa trời hoa sứ
 * PTNK Deutschklub: https://www.facebook.com/ptnkdeutschklub
 * PTNK_Nihongo: https://www.facebook.com/PTNK_Nihongo-100217732394699/
   * Trang của các lớp tiếng Nhật tại trường PTNK, ĐHQG Tp HCM. Nơi trao đổi các thông tin, tư liệu về các lớp học tiếng Nhật.
 * PTNK Korean Culture Club: https://www.facebook.com/kcc.ptnk/
 * Tổ Phát Thanh - CLB Truyền thông & Sự kiện trường Phổ thông Năng Khiếu: https://www.facebook.com/tophatthanhptnk
+  * Cái "loa" chính thức của trường.
 * Bồ Câu Năng Khiếu: https://www.facebook.com/bocau.nangkhieu/
 * JUST MEDIA: https://www.facebook.com/JUstmedia.ptnk/
+  * Từ “cẩm nang sống còn” tại Khiếu, đến đàn ca múa hát, mọi loại hình media đều trong tầm tay tại đây!
 * MC CLUB PTNK: https://www.facebook.com/mcclubptnk
 * TẠO: https://www.facebook.com/creataontheyouth
 * Philotomia: https://www.facebook.com/philotomia
 * Paradice - Boardgame Club: https://www.facebook.com/paradice.boardgameclub
+  * Đến Paradice - Đến Paradise
 * The Colosseum (câu lạc bộ/đấu Trường tranh biện): https://www.facebook.com/thecolosseum.ptnk
+  * Ở đâu cần hùng biện, ở đó có Colo!
 * Shark Club - Câu lạc bộ Khởi nghiệp Trường Phổ thông Năng Khiếu: https://www.facebook.com/sharkclubptnk
+  * Khởi nghiệp tại Năng Khiếu, tiền không thiếu!
 * PTNK Summer League: https://www.facebook.com/ptnksummerleague
 * Atlanteans - PTNK Basketball Club: https://www.facebook.com/AtlanteansPTNK
 * PACC - PTNK Animal Care Club: https://www.facebook.com/PACC-PTNK-Animal-Care-Club-157485208430440/
