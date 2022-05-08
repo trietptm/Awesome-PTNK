@@ -107,6 +107,7 @@ An awesome list of everything that belongs to VNU-HCM High School for the Gifted
 
 ## FACEBOOK GROUPS:
 * PTNK Alumni Network: https://www.facebook.com/groups/ptnkalumni
+* Khối Chuyên Toán - Tin trường Phổ thông Năng khiếu: https://www.facebook.com/groups/1820979308168612
 * 
 
 ## OTHER FACEBOOK PAGES:
