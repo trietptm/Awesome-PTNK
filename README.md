@@ -100,3 +100,11 @@ An awesome list of everything that belongs to VNU-HCM High School for the Gifted
   * WEBINAR 01: CHUYỆN "PHỤ HUYNH NĂNG KHIẾU": https://www.facebook.com/103210901322678/posts/408722244104874/
 * 
 
+## PHOTOS:
+* 2021:
+  * Các thành viên đội tuyển toán PTNK tham dự kì thi chọn đội tuyển dự thi Olympic Toán Học Quốc Tế của Việt Nam: ![image](https://user-images.githubusercontent.com/526959/167278249-203d6e2b-7a4d-4495-8907-b866d95c43dd.png)
+* 2020:
+  * Trong giờ học đội tuyển toán: ![image](https://user-images.githubusercontent.com/526959/167278186-f45de2a5-4938-4ff4-96fc-8cabb89a4db3.png)
+    * ![image](https://user-images.githubusercontent.com/526959/167278220-d54acc00-dfef-4cff-a4f9-2c42d9d91663.png)
+  * 
+* 
