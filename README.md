@@ -5,6 +5,16 @@ Trong quá trình dạy các lớp toán nâng cao, toán chuyên PTNK, toán kh
 
 An awesome list of everything that belongs to VNU-HCM High School for the Gifted (PTNK) official &amp; unofficial communities
 
+## OFFICIAL PAGES/WEBSITES:
+* Trường Phổ thông Năng khiếu ĐH Quốc gia TP. Hồ Chí Minh: https://ptnk.edu.vn
+  * https://ptnk.edu.vn/author/admin/
+  * https://ptnk.edu.vn/tin-noi-bat/
+  * https://ptnk.edu.vn/tuyen-sinh/
+  * https://ptnk.edu.vn/van-ban-thong-bao-ptnk/
+* Trường Phổ thông Năng khiếu - ĐHQG TP. HCM: https://www.facebook.com/HSGVNUHCM
+  * https://www.facebook.com/HSGVNUHCM/photos/
+* 
+
 ## PTNK LEARNING SPACE:
 * NANG KHIEU Library: https://www.facebook.com/NANG-KHIEU-Library-108448164891320/
 * 
@@ -101,7 +111,11 @@ An awesome list of everything that belongs to VNU-HCM High School for the Gifted
 * 
 
 ## PHOTOS:
-* 2021:
+* 2022:
+  * Thư viện PTNK 2022: ![image](https://user-images.githubusercontent.com/526959/167278437-141de290-a0ee-4b22-92ed-ef81b81df58c.png)
+    * ![image](https://user-images.githubusercontent.com/526959/167278476-f1eef826-9455-48f5-9650-77cf12fa2515.png)
+    * ![image](https://user-images.githubusercontent.com/526959/167278490-8dcd4e9c-4168-4bd8-b072-fa8dd96b78e3.png)
+    * ![image](https://user-images.githubusercontent.com/526959/167278502-9abae47b-8895-4834-9a9e-4bea7d82ab2c.png)
   * Các thành viên đội tuyển toán PTNK tham dự kì thi chọn đội tuyển dự thi Olympic Toán Học Quốc Tế của Việt Nam: ![image](https://user-images.githubusercontent.com/526959/167278249-203d6e2b-7a4d-4495-8907-b866d95c43dd.png)
 * 2020:
   * Trong giờ học đội tuyển toán: ![image](https://user-images.githubusercontent.com/526959/167278186-f45de2a5-4938-4ff4-96fc-8cabb89a4db3.png)
