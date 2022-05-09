@@ -136,6 +136,7 @@ An awesome list of everything that belongs to VNU-HCM High School for the Gifted
     * ![image](https://user-images.githubusercontent.com/526959/167278490-8dcd4e9c-4168-4bd8-b072-fa8dd96b78e3.png)
     * ![image](https://user-images.githubusercontent.com/526959/167278502-9abae47b-8895-4834-9a9e-4bea7d82ab2c.png)
   * Các thành viên đội tuyển toán PTNK tham dự kì thi chọn đội tuyển dự thi Olympic Toán Học Quốc Tế của Việt Nam: ![image](https://user-images.githubusercontent.com/526959/167278249-203d6e2b-7a4d-4495-8907-b866d95c43dd.png)
+    * ![image](https://user-images.githubusercontent.com/526959/167323392-c49576e7-5bdd-4afa-82c5-898979d67772.png)
 * 2020:
   * Trong giờ học đội tuyển toán: ![image](https://user-images.githubusercontent.com/526959/167278186-f45de2a5-4938-4ff4-96fc-8cabb89a4db3.png)
     * ![image](https://user-images.githubusercontent.com/526959/167278220-d54acc00-dfef-4cff-a4f9-2c42d9d91663.png)
