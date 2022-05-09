@@ -122,6 +122,9 @@ An awesome list of everything that belongs to VNU-HCM High School for the Gifted
 ## ARTICLES:
 * 2020:
   * Nói thêm về Năng khiếu: https://www.facebook.com/tran.namdung/posts/3544634385561059
+* 2019:
+  * https://www.facebook.com/tran.namdung/posts/2273733162651194
+    * Học toán nói riêng và học các môn khoa học nói chung, nhất là ở mức học sinh giỏi, là học khám phá, sáng tạo (rèn luyện tư duy).
 * 
 
 ## VIDEOS:
