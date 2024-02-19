@@ -125,11 +125,19 @@ An awesome list of everything that belongs to VNU-HCM High School for the Gifted
 * 2019:
   * https://www.facebook.com/tran.namdung/posts/2273733162651194
     * Học toán nói riêng và học các môn khoa học nói chung, nhất là ở mức học sinh giỏi, là học khám phá, sáng tạo (rèn luyện tư duy).
+* 2016:
+  * Ngôi trường của những tài năng: https://www.sggp.org.vn/ngoi-truong-cua-nhung-tai-nang-post101732.html
+    * "Tôi đam mê toán học từ nhỏ nhưng chính nền tảng kiến thức cơ sở và lối tư duy độc lập rèn luyện được ở những năm học tại Trường PTNK đã giúp tôi hòa nhập nhanh hơn với môi trường học tập sôi nổi tại Courant, tiếp cận nhanh hơn với những vấn đề mới."
 * 
 
 ## VIDEOS:
 * 2021:
   * WEBINAR 01: CHUYỆN "PHỤ HUYNH NĂNG KHIẾU": https://www.facebook.com/103210901322678/posts/408722244104874/
+* 
+
+## ĐỀ THI TUYỂN SINH:
+* Đề Thi Toán Không Chuyên Tuyển Sinh Lớp 10 Chuyên Trường Phổ Thông Năng Khiếu (PTNK), Đại Học Quốc Gia TP.HCM: <https://github.com/trietptm/De-Thi-Toan-Khong-Chuyen-Tuyen-Sinh-Lop-10-PTNK>
+* Đề Thi Toán Chuyên Tuyển Sinh Lớp 10 Chuyên Toán Trường Phổ Thông Năng Khiếu (PTNK), Đại Học Quốc Gia TP.HCM: <https://github.com/trietptm/De-Thi-Toan-Chuyen-Tuyen-Sinh-Lop-10-Chuyen-Toan-PTNK>
 * 
 
 ## PHOTOS:
