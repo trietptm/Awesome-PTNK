@@ -140,6 +140,13 @@ An awesome list of everything that belongs to VNU-HCM High School for the Gifted
 * Đề Thi Toán Chuyên Tuyển Sinh Lớp 10 Chuyên Toán Trường Phổ Thông Năng Khiếu (PTNK), Đại Học Quốc Gia TP.HCM: <https://github.com/trietptm/De-Thi-Toan-Chuyen-Tuyen-Sinh-Lop-10-Chuyen-Toan-PTNK>
 * 
 
+## DOCS:
+* 2018:
+  * <https://thongtintuyensinh.vn/2018/Truong-Pho-thong-nang-khieu-tuyen-sinh-lop-10-nam-2018.pdf>
+* 2010:
+  * <https://congthongtin.bentre.edu.vn/Data/File/Document/NK100001.pdf>
+* 
+
 ## PHOTOS:
 * 2022:
   * Thư viện PTNK 2022: ![image](https://user-images.githubusercontent.com/526959/167278437-141de290-a0ee-4b22-92ed-ef81b81df58c.png)
